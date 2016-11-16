@@ -1,0 +1,78 @@
+* {
+	margin: 0;
+}
+
+body {
+	font-family: sans-serif;
+}
+
+h1 {
+	font-size: 2em;
+	color: white;
+}
+
+#mainTitle {
+	font-size: 4em;
+}
+nav {
+	background-color: rgba(0,0,0,0.5);
+	height: 50px;
+	position: fixed;
+	width: 100%;
+	font-size: 2em;
+}
+nav a {
+	text-decoration: none;
+	color: white;
+	margin-left: 30px;
+}
+
+.largePage {
+	height: 100%;
+	background-color: grey;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 1em;
+	font-size: 2em;
+	color: white;
+	text-shadow: 2px 2px #222;
+
+}
+
+.dividerPage {
+	padding: 2em;
+	height: 50%;
+	background-color: white;
+}
+
+.dividerPage img {
+	max-height: 80%;
+	float: left;
+	margin-right: 1em;
+
+}
+
+.dividerPage h1 {
+	color: black;
+}
+
+#lg1 {
+	background-image: url(conference1.jpg);
+}
+
+#lg2 {
+	background-image: url(conference2.jpg);
+}
+
+#lg3 {
+	background-image: url(conference3.jpg);
+}
+
+#lg4 {
+	background-image: url(conference4.jpg);
+}
+
+#lg5 {
+	background-image: url(conference5.jpg);
+}
+
